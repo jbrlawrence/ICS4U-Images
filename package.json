@@ -1,0 +1,27 @@
+{
+  "name": "ics4u-2223-songs",
+  "version": "1.0.0",
+  "description": "Playlist tracking and sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbrlawrence/ICS4U-2223-Songs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbrlawrence/ICS4U-2223-Songs/issues"
+  },
+  "homepage": "https://github.com/jbrlawrence/ICS4U-2223-Songs#readme",
+  "devDependencies": {
+    "webpack": "^5.85.0",
+    "webpack-cli": "^5.1.1"
+  },
+  "dependencies": {
+    "firebase": "^9.22.1"
+  }
+}
